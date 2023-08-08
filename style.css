@@ -1,0 +1,70 @@
+*{
+   margin: 0px;
+   padding: 0px; 
+}
+nav{
+    display: flex;
+    position: sticky;
+    top: 0;
+    padding: 7px;
+    background-color: rgba(0, 0, 0, 0.545);
+}
+nav li{
+    list-style: none;
+    padding: 0px 23px;
+}
+nav li a{
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 14px 7px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav li a:hover{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+}
+.container{
+    width: 85%;
+    margin: 12px auto;
+    padding: 10px;
+    background-color: rgba(148, 247, 247, 0.555);
+    font-family: 'Merriweather', serif;
+    height: 154vh;
+}
+body{
+    background: url('bg.jpg') no-repeat center center/cover;
+}
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    padding: 20px;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 21px;
+    padding: 20px;
+}
+.container p , h4, .box p, .box ul li{
+    margin-left: 40px;
+}
+.faq li{
+    list-style: none;
+}
+.phone{
+    margin-top: 12px;
+    background-color: blueviolet;
+    color: white;
+    width: 100%;
+}
+.phone h4{
+    text-align: center;
+}
+.phone h2,h4{
+    padding-right: 10px;
+    padding-bottom: 10px;
+}

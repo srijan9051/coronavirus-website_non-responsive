@@ -1,0 +1,7 @@
+Netlify hosting:
+
+https://64d259e3af4bd71f49fec0ca--aesthetic-empanada-9223e0.netlify.app/
+
+Github hosting:
+
+https://github.com/srijan9051/coronavirus-website_non-responsive.git
